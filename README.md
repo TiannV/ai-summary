@@ -9,7 +9,7 @@ summary表主要用途：
   * 做简单的判断，避免api接口被盗刷
 
 # 后端
-https://github.com/TiannV/ai-summary/function/index.js
+https://github.com/TiannV/ai-summary/blob/main/function/index.js
 
 主要逻辑是判断summary表里是否有文章对应的摘要，没有的话使用ai接口生成摘要
 ```
@@ -64,7 +64,7 @@ https://github.com/TiannV/ai-summary/function/index.js
 * model: ai模型
 
 # 前端
-https://github.com/TiannV/ai-summary/summary.js
+https://github.com/TiannV/ai-summary/blob/main/summary.js
 在文章页面内引入如下代码
 ```
 <!-- 可以在网页结构的任何位置插入,只要你能够 -->
