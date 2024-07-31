@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "crypto-js": "^4.2.0",
+    "http": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  }
+}
